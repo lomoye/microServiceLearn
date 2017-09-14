@@ -12,5 +12,6 @@
     <modules>
         <module>msa-hello</module>
         <module>msa-sample-api</module>
+        <module>msa-framework</module>
     </modules>
 </project>
